@@ -34,7 +34,7 @@ O site criado apresenta:
 
 1. Clone ou baixe este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Renan-Nogueira1/HTML-DIO.git
    ```
 
 2. Abra o arquivo `index.html` com um navegador da sua escolha (basta dar dois cliques nele).
